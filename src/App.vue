@@ -143,14 +143,14 @@ export default {
       ],
       "header": {
         "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
+        "year": "5013u",
+        "system": "The Janus Expanse",
+        "gate": "NO GATE PRESENT",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "headerTitle": "Black Crow",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Free Agents",
+        "subheaderSubtitle": "ALPHA-PAPA-ECHO-XRAY",
       },
       "options":{
         "eventsMarkdownPerMission": true
