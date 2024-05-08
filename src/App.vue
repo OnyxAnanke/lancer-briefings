@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Operation Flash In The Pan",
           "status": "start"
         },
       ],
