@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Operation Flash In The Pan",
+          "slug": "000",
+          "name": "Flash In The Pan",
           "status": "start"
         },
       ],
