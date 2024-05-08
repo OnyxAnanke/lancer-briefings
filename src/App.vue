@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "alias": "Mute Giggling",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
@@ -131,14 +131,6 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Mute Giggling',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
         },
       ],
       "header": {
